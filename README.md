@@ -1,5 +1,9 @@
 # Flutter Student Management System
 
+
+https://github.com/user-attachments/assets/85c94956-6807-48d2-92c9-20faf9030ab8
+
+
 This is flutter and mongo DB based student management system, where student can login and see their academic and extra curricular activities in detail.
 
 The application is fetching data from MongoDB, based on role number.
